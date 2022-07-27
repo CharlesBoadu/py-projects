@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+    margin: 0em;
+    text-align: right;
+    margin-right: 2em;
+}
+h1 {
+    color: white;
+    font-weight: bold;
+    background-color: blue;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    font-size: 2em;
+    text-align: center;
+}
+#navbar {
+    text-align: right;
+    
+}
+footer{
+    color: blue;
+    text-align: center;
+}
+#input{
+    color: green;
+}

@@ -1,0 +1,6 @@
+Charles 98 87 88
+John 67 88 90
+Franscisca 77 65 45
+Desmond 88 87 86
+Maxwell 99 97 45
+Richard 12 56 66
