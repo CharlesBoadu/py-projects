@@ -91,6 +91,8 @@ def decision():
                 print("invalid input")
 
 end_prog = False
+
+#Loop to accept either plaintext/ciphertext and key and for user to decide either to continue using program or end program
 while end_prog == False:
     op = input("Hello, type 'enc' to 'Encrypt' or 'dec' to 'Decrypt': ") 
     if op == 'enc':
